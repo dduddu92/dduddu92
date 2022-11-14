@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요:D 박수연입니다.👋
 
 <!--
 **dduddu92/dduddu92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
